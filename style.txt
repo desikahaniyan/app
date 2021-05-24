@@ -16,7 +16,7 @@
 }
 
 *::selection{
-    background:var(--pink);
+    background:var(--blue: #187dfd;);
     color:#fff;
 }
 
@@ -281,7 +281,7 @@ background: radial-gradient(circle, rgba(6,200,241,1) 0%, rgba(24,125,253,1) 100
 }
 
 .newsletter form input[type="submit"]:hover{
-    color:var(--pink);
+    color:var(--blue: #187dfd;);
 }
 
 .review .box-container{
