@@ -228,7 +228,8 @@ header label{
 .newsletter{
     text-align: center;
     padding:5rem 1rem;
-    background:url(../images/subscribe-bg.png) no-repeat;
+     background: rgb(6,200,241);
+background: radial-gradient(circle, rgba(6,200,241,1) 0%, rgba(24,125,253,1) 100%, rgba(6,200,241,1) 100%);
     background-size: cover;
     background-position: center;
 }
