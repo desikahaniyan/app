@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap');
 
 :root{
-    --purple:#814096;
-    --pink:#F83292;
+    --purple:#22a6ff;
+    --pink: #187dfd;
     --gradient:linear-gradient(90deg, var(--purple), var(--pink));
 }
 
@@ -16,7 +16,7 @@
 }
 
 *::selection{
-    background:var(--blue: #187dfd;);
+    background:var(--pink);
     color:#fff;
 }
 
@@ -281,7 +281,7 @@ background: radial-gradient(circle, rgba(6,200,241,1) 0%, rgba(24,125,253,1) 100
 }
 
 .newsletter form input[type="submit"]:hover{
-    color:var(--blue: #187dfd;);
+    color:var(--pink);
 }
 
 .review .box-container{
